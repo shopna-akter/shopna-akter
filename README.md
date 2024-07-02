@@ -10,8 +10,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 </p>
 <p align="center">
@@ -29,3 +27,9 @@ Hi there! 👋 I'm Nihal, a passionate React developer dedicated to creating sea
 I am always eager to learn new technologies and take on challenging projects. I believe in the power of teamwork and strive to contribute my best to every project.
 
 Feel free to connect with me or check out my repositories!
+
+### GitHub Stats
+
+![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shopna-akter&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shopna-akter&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shopna-akter&layout=compact&theme=radical)
