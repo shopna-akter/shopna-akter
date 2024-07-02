@@ -9,6 +9,10 @@ I am always eager to learn new technologies and take on challenging projects. I 
 
 Feel free to connect with me or check out my repositories!
 
+### GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shopna-akter&theme=radical)
+
 ## :computer: Technologies that I know
 <br>
 <p align="center">
@@ -27,15 +31,12 @@ Feel free to connect with me or check out my repositories!
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-## Reach me Out
+## Reach Out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/riyadujjaman-nihal" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 50px; width: 200px;"/>
   </a>
 </p>
 
 
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shopna-akter&theme=radical)
