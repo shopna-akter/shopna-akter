@@ -30,6 +30,4 @@ Feel free to connect with me or check out my repositories!
 
 ### GitHub Stats
 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shopna-akter&show_icons=true&count_private=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shopna-akter&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shopna-akter&layout=compact&theme=radical)
