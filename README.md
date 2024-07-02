@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/mFT0PVx/Whats-App-Image-2024-07-02-at-8-01-32-PM.jpg" alt="Banner Image" width="100%"/>
+</p>
+
 ### About Me
 
 Hi there! 👋 I'm Nihal, a passionate React developer dedicated to creating seamless and dynamic web applications. I can build your website responsively , securely as you want. I have strong experience on React, JavaScript, Firebase, Tailwind & I am also familiar to Express, MongoDB .
