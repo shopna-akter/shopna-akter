@@ -2,17 +2,18 @@
 
 <br>
 <p align="center">
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)"/>
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
 </p>
 <p align="center">
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)"/>
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 <p align="center">
-<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+</p>
 <img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)"/>
 <img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)"/>
 </p><br/>
