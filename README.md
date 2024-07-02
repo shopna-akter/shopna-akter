@@ -17,3 +17,24 @@
 <img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)"/>
 </p><br/>
 
+### About Me
+
+Hi there! 👋 I'm Nihal, a passionate React developer dedicated to creating seamless and dynamic web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+
+🌟 **Skills and Technologies:**
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Express, Node.js
+- **Database:** Firebase
+- **Authentication:** JWT
+
+🚀 **Projects:**
+- [n210ph-final.web.app](https://n210ph-final.web.app/): A comprehensive project showcasing my expertise in full-stack development.
+- [n210tour-spot.netlify.app](https://n210tour-spot.netlify.app): A tour spot management application demonstrating my skills in React and web design.
+
+📚 **Courses Completed:**
+- **10 Minute School:** CV Writing, Interview Skills, Email Writing, Public Speaking, Communication Hacks
+- **PH Complete Web Development Course**
+
+I am always eager to learn new technologies and take on challenging projects. I believe in the power of teamwork and strive to contribute my best to every project.
+
+Feel free to connect with me or check out my repositories!
